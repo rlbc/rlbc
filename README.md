@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rlbc.rlbc)
+![resources](https://visitor-badge.laobi.icu/badge?page_id=rlbc.resources)
