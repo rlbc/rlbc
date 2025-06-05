@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rlbc.rlbc)
 
+---
+
 ## Stats
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rlbc) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rlbc&count_private=true&show_icons=true)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlbc&hide=html&langs_count=5&layout=compact&show_icons=true&count_private=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlbc&hide=html&langs_count=6&layout=compact&show_icons=true&count_private=true)
