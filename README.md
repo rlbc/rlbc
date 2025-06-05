@@ -15,9 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## About me
+
+Master's and PhD in Genetics 🧬 | emphasis in bioinformatics.
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rlbc.rlbc)
 
----
+## Stack
+
+![Static Badge](https://img.shields.io/badge/DNA-seq-05122A?color=blue)
+![Static Badge](https://img.shields.io/badge/RNA-seq-05122A?color=blue)
+![Static Badge](https://img.shields.io/badge/ChIP-seq-05122A?color=blue)
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
+![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=zsh)&nbsp;
+
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 
 ## Stats
 
