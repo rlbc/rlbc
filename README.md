@@ -37,6 +37,4 @@ Master's and PhD in Genetics 🧬 | emphasis in bioinformatics.
 
 ## Stats
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rlbc) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rlbc&count_private=true&show_icons=true)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlbc&hide=html&langs_count=6&layout=compact&show_icons=true&count_private=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rlbc) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlbc&hide=html&langs_count=6&layout=compact&show_icons=true&count_private=true)
